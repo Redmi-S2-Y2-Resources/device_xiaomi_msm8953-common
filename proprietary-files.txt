@@ -359,11 +359,9 @@ vendor/lib64/liblistensoundmodel2.so
 vendor/etc/seccomp_policy/mediacodec.policy
 vendor/lib/libOmxAacDec.so
 vendor/lib/libOmxAlacDec.so
-vendor/lib/libOmxAlacDecSw.so
 vendor/lib/libOmxAmrDec.so
 vendor/lib/libOmxAmrwbplusDec.so
 vendor/lib/libOmxApeDec.so
-vendor/lib/libOmxApeDecSw.so
 vendor/lib/libOmxEvrcDec.so
 vendor/lib/libOmxQcelp13Dec.so
 vendor/lib/libOmxVideoDSMode.so
@@ -374,11 +372,9 @@ vendor/lib/libmmosal_proprietary.so
 vendor/lib/libvqzip.so
 vendor/lib64/libOmxAacDec.so
 vendor/lib64/libOmxAlacDec.so
-vendor/lib64/libOmxAlacDecSw.so
 vendor/lib64/libOmxAmrDec.so
 vendor/lib64/libOmxAmrwbplusDec.so
 vendor/lib64/libOmxApeDec.so
-vendor/lib64/libOmxApeDecSw.so
 vendor/lib64/libOmxEvrcDec.so
 vendor/lib64/libOmxQcelp13Dec.so
 vendor/lib64/libOmxWmaDec.so
