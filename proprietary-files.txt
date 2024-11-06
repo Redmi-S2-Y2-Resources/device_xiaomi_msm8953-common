@@ -64,9 +64,11 @@ vendor/lib64/com.qualcomm.qti.ant@1.0.so
 # Bluetooth
 vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti
 vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc
-vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-qti.so
 vendor/lib64/libbt-hidlclient.so
 vendor/lib64/libbtnv.so
+
+# Bluetooth - from FP3
+vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-qti.so|1e238b1e84d889f424001f5134f0d2994d13251a
 
 # Bluetooth (shared dependencies)
 vendor/lib64/vendor.qti.hardware.fm@1.0.so
@@ -675,6 +677,9 @@ vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.2-service.widevine.xml
 vendor/lib/mediadrm/libwvdrmengine.so
 vendor/lib64/mediadrm/libwvdrmengine.so
 vendor/lib64/libwvhidl.so
+
+# Misc - from FP3
+vendor/lib64/libsoc_helper.so|affbc1cc49d3df3a6e174a21bf3fe79c7130d1c0
 
 # Wi-Fi
 vendor/bin/wcnss_service
